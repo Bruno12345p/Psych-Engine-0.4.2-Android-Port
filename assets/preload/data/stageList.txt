@@ -6,3 +6,7 @@ mall
 mallEvil
 school
 schoolEvil
+bobux
+brotherlybond
+place
+vecindario
