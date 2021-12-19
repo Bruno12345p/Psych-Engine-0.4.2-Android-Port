@@ -2257,6 +2257,7 @@
     "player2": "mouse",
     "player3": "gf-invisible",
     "song": "Bopeebo",
+    "stage":"vecindario",
     "needsVoices": true,
     "validScore": true,
     "bpm": 101,
